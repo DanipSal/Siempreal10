@@ -21,7 +21,12 @@ I developed a specialized automation script using **Selenium IDE** to streamline
 * **Techniques Used:** Element identification, automated form filling, and navigation flow control.
 * **Impact:** Transformed a manual administrative task into an efficient automated workflow.
 
+---
+---
 
-### 🎬 Demostración en video
 
-https://github.com/DanipSal/Siempreal10/blob/main/Demoflujon8n.mp4
+### 🎬 Video del flujo de trabajo con n8n
+
+https://github.com/user-attachments/assets/8f5ceb5b-25aa-4661-ba05-337c34a9c74b
+
+
